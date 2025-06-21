@@ -1,5 +1,7 @@
 # Olá, me chamo Diego Soares 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=SoaresJoseDiego)
+
 Sou apaixonado pelo mundo da tecnologia, onde venho investindo tempo e muita dedicação para aprender e evoluir constantemente. Este é meu GitHub!  
 Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo:
 
@@ -10,7 +12,12 @@ Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo:
 
 Aqui estão as linguagens que mais utilizo nos meus projetos:
 
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=SoaresJoseDiego&theme=onedark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub followers](https://img.shields.io/github/followers/SoaresJoseDiego?label=Seguidores&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=SoaresJoseDiego&color=blue)
 
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
