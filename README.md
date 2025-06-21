@@ -12,13 +12,8 @@ Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo:
 
 Aqui estão as linguagens que mais utilizo nos meus projetos:
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=SoaresJoseDiego&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub followers](https://img.shields.io/github/followers/SoaresJoseDiego?label=Seguidores&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=SoaresJoseDiego&color=blue)
-
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,3 +23,8 @@ Aqui estão as linguagens que mais utilizo nos meus projetos:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=SoaresJoseDiego&theme=onedark)
+
+![GitHub followers](https://img.shields.io/github/followers/SoaresJoseDiego?label=Seguidores&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=SoaresJoseDiego&color=blue)
