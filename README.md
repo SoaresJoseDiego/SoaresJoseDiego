@@ -2,6 +2,6 @@
 
 Sou apaixonado por desenvolvimento web e programação. Aqui estão algumas estatísticas das linguagens que mais uso:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true)
 
 Sinta-se à vontade para explorar meus projetos!
