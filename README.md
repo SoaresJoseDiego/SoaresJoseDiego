@@ -1,13 +1,14 @@
 # Olá, me chamo Diego Soares 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=SoaresJoseDiego)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoj-soares)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dsadamovich@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/die_movic)
 
 Sou apaixonado pelo mundo da tecnologia, onde venho investindo tempo e muita dedicação para aprender e evoluir constantemente. Este é meu GitHub!  
 Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoj-soares)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dsadamovich@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/die_movic)
+
 
 Aqui estão as linguagens que mais utilizo nos meus projetos:
 
