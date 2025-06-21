@@ -13,7 +13,7 @@ Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo:
 Aqui estão as linguagens que mais utilizo nos meus projetos:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true&card_width=1000)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
