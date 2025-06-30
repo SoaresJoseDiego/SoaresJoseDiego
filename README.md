@@ -24,7 +24,6 @@ Aqui estão as linguagens que mais utilizo nos meus projetos:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=SoaresJoseDiego&theme=onedark)
 
 ![GitHub followers](https://img.shields.io/github/followers/SoaresJoseDiego?label=Seguidores&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=SoaresJoseDiego&color=blue)
