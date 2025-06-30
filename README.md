@@ -25,5 +25,4 @@ Aqui estão as linguagens que mais utilizo nos meus projetos:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![GitHub followers](https://img.shields.io/github/followers/SoaresJoseDiego?label=Seguidores&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=SoaresJoseDiego&color=blue)
+
