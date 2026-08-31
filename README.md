@@ -54,18 +54,13 @@ Este é o meu GitHub — sinta-se à vontade para explorar meus projetos ou entr
 <div align="center">
   <img
     height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SoaresJoseDiego&show_icons=true&theme=github_dark&hide_border=true"
     alt="Estatísticas do GitHub"
-    src="https://github-readme-stats.vercel.app/api?username=SoaresJoseDiego&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
   />
+
   <img
     height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true"
     alt="Linguagens mais usadas"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
   />
-</div>
-
----
-
-<div align="center">
-  <sub>Sempre aprendendo, sempre construindo. 🚀</sub>
 </div>
