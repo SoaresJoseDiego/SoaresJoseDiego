@@ -6,7 +6,7 @@ Sou apaixonado pelo mundo da tecnologia e venho investindo tempo e dedicação p
 
 Este é o meu GitHub — sinta-se à vontade para explorar meus projetos ou entrar em contato!
 
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-diegosoares.vercel.app)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://diego-soares-gold.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoj-soares)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dsadamovich@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/die_movic)
@@ -20,7 +20,7 @@ Este é o meu GitHub — sinta-se à vontade para explorar meus projetos ou entr
 | :--- | :--- | :--- |
 | **[DevFlow](https://github.com/SoaresJoseDiego/DevFlow)** | Sistema de gestão de projetos e incidentes. A empresa cria um workspace, cadastra seus sistemas e os desenvolvedores registram tarefas, bugs e incidentes. | C# · .NET |
 | **[SpotifyDel](https://github.com/SoaresJoseDiego/Spotify-Del)** | Aplicação para limpar e analisar a biblioteca do Spotify em massa, utilizando filtros inteligentes para facilitar a organização. | C# · .NET |
-| **[Portfólio](https://github.com/SoaresJoseDiego/Portfolio)** | Meu site pessoal para apresentar meus projetos, experiências e tecnologias. **[Ver online ↗](https://portfolio-diegosoares.vercel.app)** | Angular · TypeScript |
+| **[Portfólio](https://github.com/SoaresJoseDiego/Portfolio)** | Meu site pessoal para apresentar meus projetos, experiências e tecnologias. **[Ver online ↗](diego-soares-gold.vercel.app)** | Angular · TypeScript |
 | **[Simple Product CRUD](https://github.com/SoaresJoseDiego/Simple-Product-CRUD-)** | CRUD desenvolvido em Spring Boot como estudo do ecossistema Java, explorando conceitos familiares à minha experiência com C# e .NET. | Java · Spring Boot |
 
 ---
@@ -50,19 +50,3 @@ Este é o meu GitHub — sinta-se à vontade para explorar meus projetos ou entr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub em números
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/SoaresJoseDiego?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/SoaresJoseDiego?style=for-the-badge&logo=github)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Sempre aprendendo, sempre construindo. 🚀</sub>
-</div>
