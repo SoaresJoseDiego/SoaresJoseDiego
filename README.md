@@ -52,15 +52,8 @@ Este é o meu GitHub — sinta-se à vontade para explorar meus projetos ou entr
 ## 📊 GitHub em números
 
 <div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SoaresJoseDiego&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresJoseDiego&layout=compact&theme=github_dark&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
+![GitHub followers](https://img.shields.io/github/followers/SoaresJoseDiego?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/SoaresJoseDiego?style=for-the-badge&logo=github)
+
 </div>
